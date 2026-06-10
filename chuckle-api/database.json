@@ -3,7 +3,7 @@
     {
       "id": 1,
       "text": "I went to buy some camo pants but couldn’t find any.",
-      "told": false
+      "told": true
     },
     {
       "id": 2,
@@ -24,6 +24,11 @@
       "id": 5,
       "text": "I failed math so many times at school, I can’t even count",
       "told": true
+    },
+    {
+      "text": "Yo Momma so slow, molasses couldn't keep up",
+      "told": false,
+      "id": 6
     }
   ]
 }
